@@ -30,7 +30,15 @@
 </div>
 
 ---
+## 🐍 My Contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xabdullah27/0xabdullah27/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xabdullah27/0xabdullah27/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0xabdullah27/0xabdullah27/output/github-snake.svg">
+</picture>
+
+---
 ## About
 
 I'm a software engineer from **Karachi, Pakistan**, with a foundation in full-stack web development and a growing focus on **Python backend engineering, AI systems, and agentic applications**.
@@ -415,10 +423,4 @@ open_to:
 
 </div>
 
-## 🐍 My Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xabdullah27/0xabdullah27/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xabdullah27/0xabdullah27/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0xabdullah27/0xabdullah27/output/github-snake.svg">
-</picture>
