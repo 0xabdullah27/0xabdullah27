@@ -53,6 +53,24 @@ Currently exploring the rapidly evolving **agentic AI ecosystem**, including Ope
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0xabdullah27&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xabdullah27&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xabdullah27&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%"/>
+
+</div>
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -295,24 +313,6 @@ I currently focus my public development activity primarily around **GitHub and e
 * GeeksforGeeks — Not currently used
 * HackerRank — Not currently used
 * CodeChef — Not currently used
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xabdullah27&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xabdullah27&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xabdullah27&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%"/>
-
-</div>
 
 ---
 
