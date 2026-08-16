@@ -128,34 +128,6 @@ open_to:
   - Collaborative Engineering Projects
 ```
 
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:abdullah2127x@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/0xabdullah27/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/0xabdullah27">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://0xabdullah27.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-
-
-</div>
-
----
-
 <div align="center">
 
 ### "Build systems that make intelligent software useful, reliable, and real."
