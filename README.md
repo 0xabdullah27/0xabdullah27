@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/github/stars/0xabdullah27?style=for-the-badge&color=8B5CF6&label=Stars" alt="Stars">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
-
 </div>
 
 <picture>
@@ -39,98 +37,5 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0xabdullah27/0xabdullah27/output/github-snake.svg">
 </picture>
 
----
-## About
-
-I'm a software engineer from **Karachi, Pakistan**, with a foundation in full-stack web development and a growing focus on **Python backend engineering, AI systems, and agentic applications**.
-
-My development path has evolved from building applications with **React, Next.js, Node.js, and MongoDB** toward building more AI-oriented systems with **Python, FastAPI, OpenAI Agents SDK, and modern agent-native technologies**.
-
-I'm particularly interested in the engineering problems behind AI applications: backend architecture, agent orchestration, tool use, authentication, APIs, multi-agent systems, MCP, A2A communication, knowledge systems, and reliable production workflows.
-
-Currently exploring the rapidly evolving **agentic AI ecosystem**, including OpenAI Agents SDK, Dapr Agentic Cloud Ascent patterns, MCP, A2A, Kubernetes, Dapr, and related multi-agent infrastructure.
-
-**Open to:** Software Engineering • Backend Engineering • AI/Agent Engineering • Open Source • Collaborative Projects
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xabdullah27&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xabdullah27&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xabdullah27&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%"/>
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition                               | Details                                                        |
-| ----------------------------------------- | -------------------------------------------------------------- |
-| 🏆 **Chromebook Award — Top Performance** | NED University PITP · July 2025                                |
-| 🐍 **Python Programming Recognition**     | Selected among the top 300 students out of 35,000 across Sindh |
-
-</div>
-
----
-
-
-## Current Focus
-
-```yaml
-identity:
-  role: Software Engineer
-  focus: AI & Agent Engineering
-  foundation: Full-Stack Development
-
-learning:
-  - Agentic AI
-  - OpenAI Agents SDK
-  - MCP
-  - A2A
-  - Dapr
-  - Kubernetes
-  - Multi-Agent Architecture
-  - Knowledge Graphs
-
-building:
-  - AI-powered applications
-  - FastAPI backends
-  - Agent-based systems
-  - Multi-agent workflows
-
-exploring:
-  - Agent-native cloud architecture
-  - OpenClaw
-  - Distributed AI systems
-  - AI evaluation and testing
-  - Production agent infrastructure
-
-open_to:
-  - Software Engineering
-  - Backend Engineering
-  - AI / Agent Engineering
-  - Open Source
-  - Collaborative Engineering Projects
-```
-
-<div align="center">
-
-### "Build systems that make intelligent software useful, reliable, and real."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
 
 
