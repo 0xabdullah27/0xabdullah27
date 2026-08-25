@@ -1,12 +1,12 @@
 <div align="center">
 
-# Abdullah Qureshi
-### AI Agent Engineer • Full-Stack Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0A66C2&height=140&section=header&text=Abdullah%20Qureshi&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%">
+
+<a href="https://github.com/0xabdullah27">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Agent+Engineer;LLM-Powered+Agents+%26+Tool-Calling;Next.js+%2B+FastAPI+%2B+OpenAI+Agents+SDK;Building+Beyond+Prototypes&font=Fira+Code&center=true&width=600&height=40&duration=3000&pause=800&color=7C3AED&vCenter=true&size=22" alt="Typing SVG">
+</a>
 
 <p>
-  <a href="https://github.com/0xabdullah27">
-    <img src="https://img.shields.io/badge/GitHub-0xabdullah27-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/0xabdullah27/">
     <img src="https://img.shields.io/badge/LinkedIn-0xabdullah27-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
